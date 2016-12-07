@@ -1,0 +1,9 @@
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\bin\Debug\Hoja_de_Trabajo_1.exe.config
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\bin\Debug\Hoja_de_Trabajo_1.exe
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\bin\Debug\Hoja_de_Trabajo_1.pdb
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.csprojResolveAssemblyReference.cache
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.Form1.resources
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.Properties.Resources.resources
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.csproj.GenerateResource.Cache
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.exe
+c:\users\christianalexander\documents\visual studio 2013\Projects\Hoja_de_Trabajo_1\Hoja_de_Trabajo_1\obj\Debug\Hoja_de_Trabajo_1.pdb
