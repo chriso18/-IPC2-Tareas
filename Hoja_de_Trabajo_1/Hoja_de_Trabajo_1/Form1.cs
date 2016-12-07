@@ -47,13 +47,22 @@ namespace Hoja_de_Trabajo_1
                 resultado = Math.Sqrt(resultado);
                 x1= (-b - resultado)/a;
                 x2= (-b + resultado)/a;
+
+                textBox4.Text = x1 + "-" + resultado.ToString();
+                textBox5.Text = x2 + "+" + resultado.ToString();
             }
            
         }
 
         public void Metodo2()
         {
-            
+            int a = Convert.ToInt32(textBox1.Text);
+            int b = Convert.ToInt32(textBox2.Text);
+            int c = Convert.ToInt32(textBox3.Text);
+
+            double Resultado = Math.Sqrt(a)+ b - c;
+
+            textBox4.Text = Resultado.ToString();
         }
 
         public void Metodo3()
