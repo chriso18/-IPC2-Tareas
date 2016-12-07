@@ -80,7 +80,13 @@ namespace Hoja_de_Trabajo_1
         public void Metodo4()
         {
 
+            //pitagoras
+            int c = Convert.ToInt32(textBox1.Text);
+            int a = Convert.ToInt32(textBox2.Text);
 
+            double resultado = Math.Sqrt((c * c) - (a * a));
+
+            textBox4.Text = resultado.ToString();
 
 
         }
