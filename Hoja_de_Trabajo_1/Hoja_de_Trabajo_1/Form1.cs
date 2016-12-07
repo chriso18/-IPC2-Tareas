@@ -60,16 +60,20 @@ namespace Hoja_de_Trabajo_1
             int b = Convert.ToInt32(textBox2.Text);
             int c = Convert.ToInt32(textBox3.Text);
 
-            double Resultado = Math.Sqrt(a)+ b - c;
+            double resultado = Math.Sqrt(a)+ b - c;
 
-            textBox4.Text = Resultado.ToString();
+            textBox4.Text = resultado.ToString();
         }
 
         public void Metodo3()
         {
+            //pitagoras
+            int a = Convert.ToInt32(textBox1.Text);
+            int b = Convert.ToInt32(textBox2.Text);
 
+            double resultado = Math.Sqrt((a * a) + (b * b));
 
-
+            textBox4.Text = resultado.ToString();
 
         }
 
