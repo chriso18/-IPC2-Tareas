@@ -1,0 +1,16 @@
+¿Qué entiende como "commit"?
+
+Es guardar los cambios realizados en un proyecto.
+
+
+¿Qué entiende como "merge"?
+
+Es hacer otra linea de cambios y al momento de usar merge esta nueva linea se acopla 
+a la rama principal que se usaba.
+
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+
+uno lo envia inmediatamente mientras el otro permite al usuario decidir cuando lo quiere
+enviar.
